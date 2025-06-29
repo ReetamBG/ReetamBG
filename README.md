@@ -4,6 +4,7 @@
 
 ### A Fullstack Dev from India
 
+</div>
 
 <!--
 ⚡️ Building with Next.js, React, Node.js & breaking stuff (on purpose)<br>☕ Code. Debug. Repeat.<br>
@@ -23,8 +24,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReetamBG&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 -->
 
+<div align="center">
+  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+
+</div>
 
 
 <!--
@@ -35,6 +40,6 @@
 [![](https://visitcount.itsvg.in/api?id=ReetamBG&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
 
-</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
