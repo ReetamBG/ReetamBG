@@ -25,7 +25,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/><br><sub><b>Next.js</b></sub>
     </td>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="40" alt="Tailwind"/><br><sub><b>Tailwind</b></sub>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40 alt="TailwindCSS" /><br><sub><b>Tailwind</b></sub>
     </td>
     <td align="center" width="80">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux"/><br><sub><b>Redux</b></sub>
