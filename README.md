@@ -1,7 +1,9 @@
 <div align="center">
+
 # Hi there 👋, I am Reetam 
 
 ### A Fullstack Dev from India
+
 </div>
 ⚡️ Building with Next.js, React, Node.js & breaking stuff (on purpose)<br>☕ Code. Debug. Repeat.<br>
 
