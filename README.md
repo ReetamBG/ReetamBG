@@ -2,7 +2,7 @@
 
 # Hi there 👋, I am Reetam 
 
-### A Fullstack Dev from India
+### A Software Dev from India
 
 </div>
 
