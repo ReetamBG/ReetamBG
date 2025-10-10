@@ -11,7 +11,8 @@
 -->
 
 ### Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reetam-borgohain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reetambg@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://reetambg.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reetam-borgohain) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reetambg@gmail.com)
+
 
 
 ### 💻 Tech Stack  
